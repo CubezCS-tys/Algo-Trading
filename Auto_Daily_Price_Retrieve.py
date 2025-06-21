@@ -64,7 +64,7 @@ def fetch_latest(symbols):
     try:
         raw = yf.download(
             tickers=symbols,
-            period="2d",           # fetch the last 2 days
+            period="1d",           # fetch the last 2 days
             progress=False,
             threads=True,
             group_by='ticker'
@@ -105,7 +105,8 @@ def insert_or_update(data_vendor_id, symbol_id, df):
     now = datetime.datetime.utcnow()
 
     conn = get_db_connection()
-    cur  = conn.cursor()
+    #cur  = conn.cursor()
+    cur = conn.cursor(MySQLdb.cursors.DictCursor)
 
     # fetch existing for audit
     cur.execute("""
@@ -114,6 +115,7 @@ def insert_or_update(data_vendor_id, symbol_id, df):
           FROM daily_price
          WHERE symbol_id=%s AND price_date=%s
     """, (symbol_id, dt.date()))
+
     existing = cur.fetchone()
 
     if existing:
@@ -185,4 +187,3 @@ if __name__ == "__main__":
             logger.info(f"{raw_tk} @ {dt_str}")
 
     logger.info("Price update run complete")
-

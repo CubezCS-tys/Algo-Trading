@@ -50,5 +50,6 @@ if __name__ == "__main__":
     
     rows = load_tickers()    # now rows is [(1,'AAPL'), (2,'MSFT'), …]
     ids, ticks = zip(*rows)  # works as you originally expected
+    api_tickers = [t.replace('.', '-') for t in ticks]
     pprint(ids)
-    pprint(ticks)
+    print(api_tickers)

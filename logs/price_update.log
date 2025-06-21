@@ -1,0 +1,2536 @@
+2025-06-21 00:30:24 INFO     Starting price update run
+2025-06-21 00:30:24 INFO     Fetching latest prices for 503 tickers
+2025-06-21 00:38:04 INFO     Starting price update run
+2025-06-21 00:38:04 INFO     Fetching latest prices for 503 tickers
+2025-06-21 00:39:08 INFO     Starting price update run
+2025-06-21 00:39:08 INFO     Fetching latest prices for 503 tickers
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:09 INFO     Price update run complete
+2025-06-21 00:39:33 INFO     Starting price update run
+2025-06-21 00:39:33 INFO     Fetching latest prices for 503 tickers
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:33 INFO     Price update run complete
+2025-06-21 00:39:46 INFO     Starting price update run
+2025-06-21 00:39:46 INFO     Fetching latest prices for 503 tickers
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 WARNING  No data for symbol_id=id ticker='ticker' (api=ticker)
+2025-06-21 00:39:47 INFO     Price update run complete
+2025-06-21 00:47:29 INFO     Starting price update run
+2025-06-21 00:47:29 INFO     Fetching latest prices for 503 tickers
+2025-06-21 01:05:15 INFO     Starting price update run
+2025-06-21 01:05:15 INFO     Fetching latest prices for 503 tickers
+2025-06-21 01:05:39 INFO     MMM @ 2025-06-20
+2025-06-21 01:05:39 INFO     AOS @ 2025-06-20
+2025-06-21 01:05:39 INFO     ABT @ 2025-06-20
+2025-06-21 01:05:39 INFO     ABBV @ 2025-06-20
+2025-06-21 01:05:39 INFO     ACN @ 2025-06-20
+2025-06-21 01:05:39 INFO     ADBE @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMD @ 2025-06-20
+2025-06-21 01:05:40 INFO     AES @ 2025-06-20
+2025-06-21 01:05:40 INFO     AFL @ 2025-06-20
+2025-06-21 01:05:40 INFO     A @ 2025-06-20
+2025-06-21 01:05:40 INFO     APD @ 2025-06-20
+2025-06-21 01:05:40 INFO     ABNB @ 2025-06-20
+2025-06-21 01:05:40 INFO     AKAM @ 2025-06-20
+2025-06-21 01:05:40 INFO     ALB @ 2025-06-20
+2025-06-21 01:05:40 INFO     ARE @ 2025-06-20
+2025-06-21 01:05:40 INFO     ALGN @ 2025-06-20
+2025-06-21 01:05:40 INFO     ALLE @ 2025-06-20
+2025-06-21 01:05:40 INFO     LNT @ 2025-06-20
+2025-06-21 01:05:40 INFO     ALL @ 2025-06-20
+2025-06-21 01:05:40 INFO     GOOGL @ 2025-06-20
+2025-06-21 01:05:40 INFO     GOOG @ 2025-06-20
+2025-06-21 01:05:40 INFO     MO @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMZN @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMCR @ 2025-06-20
+2025-06-21 01:05:40 INFO     AEE @ 2025-06-20
+2025-06-21 01:05:40 INFO     AEP @ 2025-06-20
+2025-06-21 01:05:40 INFO     AXP @ 2025-06-20
+2025-06-21 01:05:40 INFO     AIG @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMT @ 2025-06-20
+2025-06-21 01:05:40 INFO     AWK @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMP @ 2025-06-20
+2025-06-21 01:05:40 INFO     AME @ 2025-06-20
+2025-06-21 01:05:40 INFO     AMGN @ 2025-06-20
+2025-06-21 01:05:40 INFO     APH @ 2025-06-20
+2025-06-21 01:05:41 INFO     ADI @ 2025-06-20
+2025-06-21 01:05:41 INFO     ANSS @ 2025-06-20
+2025-06-21 01:05:41 INFO     AON @ 2025-06-20
+2025-06-21 01:05:41 INFO     APA @ 2025-06-20
+2025-06-21 01:05:41 INFO     APO @ 2025-06-20
+2025-06-21 01:05:41 INFO     AAPL @ 2025-06-20
+2025-06-21 01:05:41 INFO     AMAT @ 2025-06-20
+2025-06-21 01:05:41 INFO     APTV @ 2025-06-20
+2025-06-21 01:05:41 INFO     ACGL @ 2025-06-20
+2025-06-21 01:05:41 INFO     ADM @ 2025-06-20
+2025-06-21 01:05:41 INFO     ANET @ 2025-06-20
+2025-06-21 01:05:41 INFO     AJG @ 2025-06-20
+2025-06-21 01:05:41 INFO     AIZ @ 2025-06-20
+2025-06-21 01:05:41 INFO     T @ 2025-06-20
+2025-06-21 01:05:41 INFO     ATO @ 2025-06-20
+2025-06-21 01:05:41 INFO     ADSK @ 2025-06-20
+2025-06-21 01:05:41 INFO     ADP @ 2025-06-20
+2025-06-21 01:05:41 INFO     AZO @ 2025-06-20
+2025-06-21 01:05:41 INFO     AVB @ 2025-06-20
+2025-06-21 01:05:41 INFO     AVY @ 2025-06-20
+2025-06-21 01:05:41 INFO     AXON @ 2025-06-20
+2025-06-21 01:05:41 INFO     BKR @ 2025-06-20
+2025-06-21 01:05:41 INFO     BALL @ 2025-06-20
+2025-06-21 01:05:41 INFO     BAC @ 2025-06-20
+2025-06-21 01:05:41 INFO     BAX @ 2025-06-20
+2025-06-21 01:05:41 INFO     BDX @ 2025-06-20
+2025-06-21 01:05:41 INFO     BRK.B @ 2025-06-20
+2025-06-21 01:05:41 INFO     BBY @ 2025-06-20
+2025-06-21 01:05:41 INFO     TECH @ 2025-06-20
+2025-06-21 01:05:42 INFO     BIIB @ 2025-06-20
+2025-06-21 01:05:42 INFO     BLK @ 2025-06-20
+2025-06-21 01:05:42 INFO     BX @ 2025-06-20
+2025-06-21 01:05:42 INFO     BK @ 2025-06-20
+2025-06-21 01:05:42 INFO     BA @ 2025-06-20
+2025-06-21 01:05:42 INFO     BKNG @ 2025-06-20
+2025-06-21 01:05:42 INFO     BSX @ 2025-06-20
+2025-06-21 01:05:42 INFO     BMY @ 2025-06-20
+2025-06-21 01:05:42 INFO     AVGO @ 2025-06-20
+2025-06-21 01:05:42 INFO     BR @ 2025-06-20
+2025-06-21 01:05:42 INFO     BRO @ 2025-06-20
+2025-06-21 01:05:42 INFO     BF.B @ 2025-06-20
+2025-06-21 01:05:42 INFO     BLDR @ 2025-06-20
+2025-06-21 01:05:42 INFO     BG @ 2025-06-20
+2025-06-21 01:05:42 INFO     BXP @ 2025-06-20
+2025-06-21 01:05:42 INFO     CHRW @ 2025-06-20
+2025-06-21 01:05:42 INFO     CDNS @ 2025-06-20
+2025-06-21 01:05:42 INFO     CZR @ 2025-06-20
+2025-06-21 01:05:42 INFO     CPT @ 2025-06-20
+2025-06-21 01:05:42 INFO     CPB @ 2025-06-20
+2025-06-21 01:05:42 INFO     COF @ 2025-06-20
+2025-06-21 01:05:42 INFO     CAH @ 2025-06-20
+2025-06-21 01:05:42 INFO     KMX @ 2025-06-20
+2025-06-21 01:05:42 INFO     CCL @ 2025-06-20
+2025-06-21 01:05:42 INFO     CARR @ 2025-06-20
+2025-06-21 01:05:42 INFO     CAT @ 2025-06-20
+2025-06-21 01:05:42 INFO     CBOE @ 2025-06-20
+2025-06-21 01:05:42 INFO     CBRE @ 2025-06-20
+2025-06-21 01:05:42 INFO     CDW @ 2025-06-20
+2025-06-21 01:05:42 INFO     COR @ 2025-06-20
+2025-06-21 01:05:42 INFO     CNC @ 2025-06-20
+2025-06-21 01:05:43 INFO     CNP @ 2025-06-20
+2025-06-21 01:05:43 INFO     CF @ 2025-06-20
+2025-06-21 01:05:43 INFO     CRL @ 2025-06-20
+2025-06-21 01:05:43 INFO     SCHW @ 2025-06-20
+2025-06-21 01:05:43 INFO     CHTR @ 2025-06-20
+2025-06-21 01:05:43 INFO     CVX @ 2025-06-20
+2025-06-21 01:05:43 INFO     CMG @ 2025-06-20
+2025-06-21 01:05:43 INFO     CB @ 2025-06-20
+2025-06-21 01:05:43 INFO     CHD @ 2025-06-20
+2025-06-21 01:05:43 INFO     CI @ 2025-06-20
+2025-06-21 01:05:43 INFO     CINF @ 2025-06-20
+2025-06-21 01:05:43 INFO     CTAS @ 2025-06-20
+2025-06-21 01:05:43 INFO     CSCO @ 2025-06-20
+2025-06-21 01:05:43 INFO     C @ 2025-06-20
+2025-06-21 01:05:43 INFO     CFG @ 2025-06-20
+2025-06-21 01:05:43 INFO     CLX @ 2025-06-20
+2025-06-21 01:05:43 INFO     CME @ 2025-06-20
+2025-06-21 01:05:43 INFO     CMS @ 2025-06-20
+2025-06-21 01:05:43 INFO     KO @ 2025-06-20
+2025-06-21 01:05:43 INFO     CTSH @ 2025-06-20
+2025-06-21 01:05:43 INFO     COIN @ 2025-06-20
+2025-06-21 01:05:43 INFO     CL @ 2025-06-20
+2025-06-21 01:05:43 INFO     CMCSA @ 2025-06-20
+2025-06-21 01:05:43 INFO     CAG @ 2025-06-20
+2025-06-21 01:05:43 INFO     COP @ 2025-06-20
+2025-06-21 01:05:43 INFO     ED @ 2025-06-20
+2025-06-21 01:05:43 INFO     STZ @ 2025-06-20
+2025-06-21 01:05:43 INFO     CEG @ 2025-06-20
+2025-06-21 01:05:43 INFO     COO @ 2025-06-20
+2025-06-21 01:05:43 INFO     CPRT @ 2025-06-20
+2025-06-21 01:05:44 INFO     GLW @ 2025-06-20
+2025-06-21 01:05:44 INFO     CPAY @ 2025-06-20
+2025-06-21 01:05:44 INFO     CTVA @ 2025-06-20
+2025-06-21 01:05:44 INFO     CSGP @ 2025-06-20
+2025-06-21 01:05:44 INFO     COST @ 2025-06-20
+2025-06-21 01:05:44 INFO     CTRA @ 2025-06-20
+2025-06-21 01:05:44 INFO     CRWD @ 2025-06-20
+2025-06-21 01:05:44 INFO     CCI @ 2025-06-20
+2025-06-21 01:05:44 INFO     CSX @ 2025-06-20
+2025-06-21 01:05:44 INFO     CMI @ 2025-06-20
+2025-06-21 01:05:44 INFO     CVS @ 2025-06-20
+2025-06-21 01:05:44 INFO     DHR @ 2025-06-20
+2025-06-21 01:05:44 INFO     DRI @ 2025-06-20
+2025-06-21 01:05:44 INFO     DVA @ 2025-06-20
+2025-06-21 01:05:44 INFO     DAY @ 2025-06-20
+2025-06-21 01:05:44 INFO     DECK @ 2025-06-20
+2025-06-21 01:05:44 INFO     DE @ 2025-06-20
+2025-06-21 01:05:44 INFO     DELL @ 2025-06-20
+2025-06-21 01:05:44 INFO     DAL @ 2025-06-20
+2025-06-21 01:05:44 INFO     DVN @ 2025-06-20
+2025-06-21 01:05:44 INFO     DXCM @ 2025-06-20
+2025-06-21 01:05:44 INFO     FANG @ 2025-06-20
+2025-06-21 01:05:44 INFO     DLR @ 2025-06-20
+2025-06-21 01:05:44 INFO     DG @ 2025-06-20
+2025-06-21 01:05:44 INFO     DLTR @ 2025-06-20
+2025-06-21 01:05:44 INFO     D @ 2025-06-20
+2025-06-21 01:05:44 INFO     DPZ @ 2025-06-20
+2025-06-21 01:05:44 INFO     DASH @ 2025-06-20
+2025-06-21 01:05:44 INFO     DOV @ 2025-06-20
+2025-06-21 01:05:44 INFO     DOW @ 2025-06-20
+2025-06-21 01:05:44 INFO     DHI @ 2025-06-20
+2025-06-21 01:05:45 INFO     DTE @ 2025-06-20
+2025-06-21 01:05:45 INFO     DUK @ 2025-06-20
+2025-06-21 01:05:45 INFO     DD @ 2025-06-20
+2025-06-21 01:05:45 INFO     EMN @ 2025-06-20
+2025-06-21 01:05:45 INFO     ETN @ 2025-06-20
+2025-06-21 01:05:45 INFO     EBAY @ 2025-06-20
+2025-06-21 01:05:45 INFO     ECL @ 2025-06-20
+2025-06-21 01:05:45 INFO     EIX @ 2025-06-20
+2025-06-21 01:05:45 INFO     EW @ 2025-06-20
+2025-06-21 01:05:45 INFO     EA @ 2025-06-20
+2025-06-21 01:05:45 INFO     ELV @ 2025-06-20
+2025-06-21 01:05:45 INFO     EMR @ 2025-06-20
+2025-06-21 01:05:45 INFO     ENPH @ 2025-06-20
+2025-06-21 01:05:45 INFO     ETR @ 2025-06-20
+2025-06-21 01:05:45 INFO     EOG @ 2025-06-20
+2025-06-21 01:05:45 INFO     EPAM @ 2025-06-20
+2025-06-21 01:05:45 INFO     EQT @ 2025-06-20
+2025-06-21 01:05:45 INFO     EFX @ 2025-06-20
+2025-06-21 01:05:45 INFO     EQIX @ 2025-06-20
+2025-06-21 01:05:45 INFO     EQR @ 2025-06-20
+2025-06-21 01:05:45 INFO     ERIE @ 2025-06-20
+2025-06-21 01:05:45 INFO     ESS @ 2025-06-20
+2025-06-21 01:05:45 INFO     EL @ 2025-06-20
+2025-06-21 01:05:45 INFO     EG @ 2025-06-20
+2025-06-21 01:05:45 INFO     EVRG @ 2025-06-20
+2025-06-21 01:05:45 INFO     ES @ 2025-06-20
+2025-06-21 01:05:45 INFO     EXC @ 2025-06-20
+2025-06-21 01:05:45 INFO     EXE @ 2025-06-20
+2025-06-21 01:05:45 INFO     EXPE @ 2025-06-20
+2025-06-21 01:05:45 INFO     EXPD @ 2025-06-20
+2025-06-21 01:05:45 INFO     EXR @ 2025-06-20
+2025-06-21 01:05:46 INFO     XOM @ 2025-06-20
+2025-06-21 01:05:46 INFO     FFIV @ 2025-06-20
+2025-06-21 01:05:46 INFO     FDS @ 2025-06-20
+2025-06-21 01:05:46 INFO     FICO @ 2025-06-20
+2025-06-21 01:05:46 INFO     FAST @ 2025-06-20
+2025-06-21 01:05:46 INFO     FRT @ 2025-06-20
+2025-06-21 01:05:46 INFO     FDX @ 2025-06-20
+2025-06-21 01:05:46 INFO     FIS @ 2025-06-20
+2025-06-21 01:05:46 INFO     FITB @ 2025-06-20
+2025-06-21 01:05:46 INFO     FSLR @ 2025-06-20
+2025-06-21 01:05:46 INFO     FE @ 2025-06-20
+2025-06-21 01:05:46 INFO     FI @ 2025-06-20
+2025-06-21 01:05:46 INFO     F @ 2025-06-20
+2025-06-21 01:05:46 INFO     FTNT @ 2025-06-20
+2025-06-21 01:05:46 INFO     FTV @ 2025-06-20
+2025-06-21 01:05:46 INFO     FOXA @ 2025-06-20
+2025-06-21 01:05:46 INFO     FOX @ 2025-06-20
+2025-06-21 01:05:46 INFO     BEN @ 2025-06-20
+2025-06-21 01:05:46 INFO     FCX @ 2025-06-20
+2025-06-21 01:05:46 INFO     GRMN @ 2025-06-20
+2025-06-21 01:05:46 INFO     IT @ 2025-06-20
+2025-06-21 01:05:46 INFO     GE @ 2025-06-20
+2025-06-21 01:05:46 INFO     GEHC @ 2025-06-20
+2025-06-21 01:05:46 INFO     GEV @ 2025-06-20
+2025-06-21 01:05:46 INFO     GEN @ 2025-06-20
+2025-06-21 01:05:46 INFO     GNRC @ 2025-06-20
+2025-06-21 01:05:46 INFO     GD @ 2025-06-20
+2025-06-21 01:05:46 INFO     GIS @ 2025-06-20
+2025-06-21 01:05:46 INFO     GM @ 2025-06-20
+2025-06-21 01:05:46 INFO     GPC @ 2025-06-20
+2025-06-21 01:05:46 INFO     GILD @ 2025-06-20
+2025-06-21 01:05:47 INFO     GPN @ 2025-06-20
+2025-06-21 01:05:47 INFO     GL @ 2025-06-20
+2025-06-21 01:05:47 INFO     GDDY @ 2025-06-20
+2025-06-21 01:05:47 INFO     GS @ 2025-06-20
+2025-06-21 01:05:47 INFO     HAL @ 2025-06-20
+2025-06-21 01:05:47 INFO     HIG @ 2025-06-20
+2025-06-21 01:05:47 INFO     HAS @ 2025-06-20
+2025-06-21 01:05:47 INFO     HCA @ 2025-06-20
+2025-06-21 01:05:47 INFO     DOC @ 2025-06-20
+2025-06-21 01:05:47 INFO     HSIC @ 2025-06-20
+2025-06-21 01:05:47 INFO     HSY @ 2025-06-20
+2025-06-21 01:05:47 INFO     HES @ 2025-06-20
+2025-06-21 01:05:47 INFO     HPE @ 2025-06-20
+2025-06-21 01:05:47 INFO     HLT @ 2025-06-20
+2025-06-21 01:05:47 INFO     HOLX @ 2025-06-20
+2025-06-21 01:05:47 INFO     HD @ 2025-06-20
+2025-06-21 01:05:47 INFO     HON @ 2025-06-20
+2025-06-21 01:05:47 INFO     HRL @ 2025-06-20
+2025-06-21 01:05:47 INFO     HST @ 2025-06-20
+2025-06-21 01:05:47 INFO     HWM @ 2025-06-20
+2025-06-21 01:05:47 INFO     HPQ @ 2025-06-20
+2025-06-21 01:05:47 INFO     HUBB @ 2025-06-20
+2025-06-21 01:05:47 INFO     HUM @ 2025-06-20
+2025-06-21 01:05:47 INFO     HBAN @ 2025-06-20
+2025-06-21 01:05:47 INFO     HII @ 2025-06-20
+2025-06-21 01:05:47 INFO     IBM @ 2025-06-20
+2025-06-21 01:05:47 INFO     IEX @ 2025-06-20
+2025-06-21 01:05:47 INFO     IDXX @ 2025-06-20
+2025-06-21 01:05:47 INFO     ITW @ 2025-06-20
+2025-06-21 01:05:48 INFO     INCY @ 2025-06-20
+2025-06-21 01:05:48 INFO     IR @ 2025-06-20
+2025-06-21 01:05:48 INFO     PODD @ 2025-06-20
+2025-06-21 01:05:48 INFO     INTC @ 2025-06-20
+2025-06-21 01:05:48 INFO     ICE @ 2025-06-20
+2025-06-21 01:05:48 INFO     IFF @ 2025-06-20
+2025-06-21 01:05:48 INFO     IP @ 2025-06-20
+2025-06-21 01:05:48 INFO     IPG @ 2025-06-20
+2025-06-21 01:05:48 INFO     INTU @ 2025-06-20
+2025-06-21 01:05:48 INFO     ISRG @ 2025-06-20
+2025-06-21 01:05:48 INFO     IVZ @ 2025-06-20
+2025-06-21 01:05:48 INFO     INVH @ 2025-06-20
+2025-06-21 01:05:48 INFO     IQV @ 2025-06-20
+2025-06-21 01:05:48 INFO     IRM @ 2025-06-20
+2025-06-21 01:05:48 INFO     JBHT @ 2025-06-20
+2025-06-21 01:05:48 INFO     JBL @ 2025-06-20
+2025-06-21 01:05:48 INFO     JKHY @ 2025-06-20
+2025-06-21 01:05:48 INFO     J @ 2025-06-20
+2025-06-21 01:05:48 INFO     JNJ @ 2025-06-20
+2025-06-21 01:05:48 INFO     JCI @ 2025-06-20
+2025-06-21 01:05:48 INFO     JPM @ 2025-06-20
+2025-06-21 01:05:48 INFO     JNPR @ 2025-06-20
+2025-06-21 01:05:48 INFO     K @ 2025-06-20
+2025-06-21 01:05:48 INFO     KVUE @ 2025-06-20
+2025-06-21 01:05:48 INFO     KDP @ 2025-06-20
+2025-06-21 01:05:48 INFO     KEY @ 2025-06-20
+2025-06-21 01:05:48 INFO     KEYS @ 2025-06-20
+2025-06-21 01:05:48 INFO     KMB @ 2025-06-20
+2025-06-21 01:05:48 INFO     KIM @ 2025-06-20
+2025-06-21 01:05:48 INFO     KMI @ 2025-06-20
+2025-06-21 01:05:48 INFO     KKR @ 2025-06-20
+2025-06-21 01:05:49 INFO     KLAC @ 2025-06-20
+2025-06-21 01:05:49 INFO     KHC @ 2025-06-20
+2025-06-21 01:05:49 INFO     KR @ 2025-06-20
+2025-06-21 01:05:49 INFO     LHX @ 2025-06-20
+2025-06-21 01:05:49 INFO     LH @ 2025-06-20
+2025-06-21 01:05:49 INFO     LRCX @ 2025-06-20
+2025-06-21 01:05:49 INFO     LW @ 2025-06-20
+2025-06-21 01:05:49 INFO     LVS @ 2025-06-20
+2025-06-21 01:05:49 INFO     LDOS @ 2025-06-20
+2025-06-21 01:05:49 INFO     LEN @ 2025-06-20
+2025-06-21 01:05:49 INFO     LII @ 2025-06-20
+2025-06-21 01:05:49 INFO     LLY @ 2025-06-20
+2025-06-21 01:05:49 INFO     LIN @ 2025-06-20
+2025-06-21 01:05:49 INFO     LYV @ 2025-06-20
+2025-06-21 01:05:49 INFO     LKQ @ 2025-06-20
+2025-06-21 01:05:49 INFO     LMT @ 2025-06-20
+2025-06-21 01:05:49 INFO     L @ 2025-06-20
+2025-06-21 01:05:49 INFO     LOW @ 2025-06-20
+2025-06-21 01:05:49 INFO     LULU @ 2025-06-20
+2025-06-21 01:05:49 INFO     LYB @ 2025-06-20
+2025-06-21 01:05:49 INFO     MTB @ 2025-06-20
+2025-06-21 01:05:49 INFO     MPC @ 2025-06-20
+2025-06-21 01:05:49 INFO     MKTX @ 2025-06-20
+2025-06-21 01:05:49 INFO     MAR @ 2025-06-20
+2025-06-21 01:05:49 INFO     MMC @ 2025-06-20
+2025-06-21 01:05:49 INFO     MLM @ 2025-06-20
+2025-06-21 01:05:49 INFO     MAS @ 2025-06-20
+2025-06-21 01:05:49 INFO     MA @ 2025-06-20
+2025-06-21 01:05:49 INFO     MTCH @ 2025-06-20
+2025-06-21 01:05:49 INFO     MKC @ 2025-06-20
+2025-06-21 01:05:49 INFO     MCD @ 2025-06-20
+2025-06-21 01:05:50 INFO     MCK @ 2025-06-20
+2025-06-21 01:05:50 INFO     MDT @ 2025-06-20
+2025-06-21 01:05:50 INFO     MRK @ 2025-06-20
+2025-06-21 01:05:50 INFO     META @ 2025-06-20
+2025-06-21 01:05:50 INFO     MET @ 2025-06-20
+2025-06-21 01:05:50 INFO     MTD @ 2025-06-20
+2025-06-21 01:05:50 INFO     MGM @ 2025-06-20
+2025-06-21 01:05:50 INFO     MCHP @ 2025-06-20
+2025-06-21 01:05:50 INFO     MU @ 2025-06-20
+2025-06-21 01:05:50 INFO     MSFT @ 2025-06-20
+2025-06-21 01:05:50 INFO     MAA @ 2025-06-20
+2025-06-21 01:05:50 INFO     MRNA @ 2025-06-20
+2025-06-21 01:05:50 INFO     MHK @ 2025-06-20
+2025-06-21 01:05:50 INFO     MOH @ 2025-06-20
+2025-06-21 01:05:50 INFO     TAP @ 2025-06-20
+2025-06-21 01:05:50 INFO     MDLZ @ 2025-06-20
+2025-06-21 01:05:50 INFO     MPWR @ 2025-06-20
+2025-06-21 01:05:50 INFO     MNST @ 2025-06-20
+2025-06-21 01:05:50 INFO     MCO @ 2025-06-20
+2025-06-21 01:05:50 INFO     MS @ 2025-06-20
+2025-06-21 01:05:50 INFO     MOS @ 2025-06-20
+2025-06-21 01:05:50 INFO     MSI @ 2025-06-20
+2025-06-21 01:05:50 INFO     MSCI @ 2025-06-20
+2025-06-21 01:05:50 INFO     NDAQ @ 2025-06-20
+2025-06-21 01:05:50 INFO     NTAP @ 2025-06-20
+2025-06-21 01:05:50 INFO     NFLX @ 2025-06-20
+2025-06-21 01:05:50 INFO     NEM @ 2025-06-20
+2025-06-21 01:05:50 INFO     NWSA @ 2025-06-20
+2025-06-21 01:05:50 INFO     NWS @ 2025-06-20
+2025-06-21 01:05:50 INFO     NEE @ 2025-06-20
+2025-06-21 01:05:50 INFO     NKE @ 2025-06-20
+2025-06-21 01:05:51 INFO     NI @ 2025-06-20
+2025-06-21 01:05:51 INFO     NDSN @ 2025-06-20
+2025-06-21 01:05:51 INFO     NSC @ 2025-06-20
+2025-06-21 01:05:51 INFO     NTRS @ 2025-06-20
+2025-06-21 01:05:51 INFO     NOC @ 2025-06-20
+2025-06-21 01:05:51 INFO     NCLH @ 2025-06-20
+2025-06-21 01:05:51 INFO     NRG @ 2025-06-20
+2025-06-21 01:05:51 INFO     NUE @ 2025-06-20
+2025-06-21 01:05:51 INFO     NVDA @ 2025-06-20
+2025-06-21 01:05:51 INFO     NVR @ 2025-06-20
+2025-06-21 01:05:51 INFO     NXPI @ 2025-06-20
+2025-06-21 01:05:51 INFO     ORLY @ 2025-06-20
+2025-06-21 01:05:51 INFO     OXY @ 2025-06-20
+2025-06-21 01:05:51 INFO     ODFL @ 2025-06-20
+2025-06-21 01:05:51 INFO     OMC @ 2025-06-20
+2025-06-21 01:05:51 INFO     ON @ 2025-06-20
+2025-06-21 01:05:51 INFO     OKE @ 2025-06-20
+2025-06-21 01:05:51 INFO     ORCL @ 2025-06-20
+2025-06-21 01:05:51 INFO     OTIS @ 2025-06-20
+2025-06-21 01:05:51 INFO     PCAR @ 2025-06-20
+2025-06-21 01:05:51 INFO     PKG @ 2025-06-20
+2025-06-21 01:05:51 INFO     PLTR @ 2025-06-20
+2025-06-21 01:05:51 INFO     PANW @ 2025-06-20
+2025-06-21 01:05:51 INFO     PARA @ 2025-06-20
+2025-06-21 01:05:51 INFO     PH @ 2025-06-20
+2025-06-21 01:05:51 INFO     PAYX @ 2025-06-20
+2025-06-21 01:05:51 INFO     PAYC @ 2025-06-20
+2025-06-21 01:05:51 INFO     PYPL @ 2025-06-20
+2025-06-21 01:05:51 INFO     PNR @ 2025-06-20
+2025-06-21 01:05:51 INFO     PEP @ 2025-06-20
+2025-06-21 01:05:51 INFO     PFE @ 2025-06-20
+2025-06-21 01:05:51 INFO     PCG @ 2025-06-20
+2025-06-21 01:05:51 INFO     PM @ 2025-06-20
+2025-06-21 01:05:52 INFO     PSX @ 2025-06-20
+2025-06-21 01:05:52 INFO     PNW @ 2025-06-20
+2025-06-21 01:05:52 INFO     PNC @ 2025-06-20
+2025-06-21 01:05:52 INFO     POOL @ 2025-06-20
+2025-06-21 01:05:52 INFO     PPG @ 2025-06-20
+2025-06-21 01:05:52 INFO     PPL @ 2025-06-20
+2025-06-21 01:05:52 INFO     PFG @ 2025-06-20
+2025-06-21 01:05:52 INFO     PG @ 2025-06-20
+2025-06-21 01:05:52 INFO     PGR @ 2025-06-20
+2025-06-21 01:05:52 INFO     PLD @ 2025-06-20
+2025-06-21 01:05:52 INFO     PRU @ 2025-06-20
+2025-06-21 01:05:52 INFO     PEG @ 2025-06-20
+2025-06-21 01:05:52 INFO     PTC @ 2025-06-20
+2025-06-21 01:05:52 INFO     PSA @ 2025-06-20
+2025-06-21 01:05:52 INFO     PHM @ 2025-06-20
+2025-06-21 01:05:52 INFO     PWR @ 2025-06-20
+2025-06-21 01:05:52 INFO     QCOM @ 2025-06-20
+2025-06-21 01:05:52 INFO     DGX @ 2025-06-20
+2025-06-21 01:05:52 INFO     RL @ 2025-06-20
+2025-06-21 01:05:52 INFO     RJF @ 2025-06-20
+2025-06-21 01:05:52 INFO     RTX @ 2025-06-20
+2025-06-21 01:05:52 INFO     O @ 2025-06-20
+2025-06-21 01:05:52 INFO     REG @ 2025-06-20
+2025-06-21 01:05:52 INFO     REGN @ 2025-06-20
+2025-06-21 01:05:52 INFO     RF @ 2025-06-20
+2025-06-21 01:05:52 INFO     RSG @ 2025-06-20
+2025-06-21 01:05:52 INFO     RMD @ 2025-06-20
+2025-06-21 01:05:52 INFO     RVTY @ 2025-06-20
+2025-06-21 01:05:52 INFO     ROK @ 2025-06-20
+2025-06-21 01:05:52 INFO     ROL @ 2025-06-20
+2025-06-21 01:05:53 INFO     ROP @ 2025-06-20
+2025-06-21 01:05:53 INFO     ROST @ 2025-06-20
+2025-06-21 01:05:53 INFO     RCL @ 2025-06-20
+2025-06-21 01:05:53 INFO     SPGI @ 2025-06-20
+2025-06-21 01:05:53 INFO     CRM @ 2025-06-20
+2025-06-21 01:05:53 INFO     SBAC @ 2025-06-20
+2025-06-21 01:05:53 INFO     SLB @ 2025-06-20
+2025-06-21 01:05:53 INFO     STX @ 2025-06-20
+2025-06-21 01:05:53 INFO     SRE @ 2025-06-20
+2025-06-21 01:05:53 INFO     NOW @ 2025-06-20
+2025-06-21 01:05:53 INFO     SHW @ 2025-06-20
+2025-06-21 01:05:53 INFO     SPG @ 2025-06-20
+2025-06-21 01:05:53 INFO     SWKS @ 2025-06-20
+2025-06-21 01:05:53 INFO     SJM @ 2025-06-20
+2025-06-21 01:05:53 INFO     SW @ 2025-06-20
+2025-06-21 01:05:53 INFO     SNA @ 2025-06-20
+2025-06-21 01:05:53 INFO     SOLV @ 2025-06-20
+2025-06-21 01:05:53 INFO     SO @ 2025-06-20
+2025-06-21 01:05:53 INFO     LUV @ 2025-06-20
+2025-06-21 01:05:53 INFO     SWK @ 2025-06-20
+2025-06-21 01:05:53 INFO     SBUX @ 2025-06-20
+2025-06-21 01:05:53 INFO     STT @ 2025-06-20
+2025-06-21 01:05:53 INFO     STLD @ 2025-06-20
+2025-06-21 01:05:53 INFO     STE @ 2025-06-20
+2025-06-21 01:05:53 INFO     SYK @ 2025-06-20
+2025-06-21 01:05:53 INFO     SMCI @ 2025-06-20
+2025-06-21 01:05:53 INFO     SYF @ 2025-06-20
+2025-06-21 01:05:53 INFO     SNPS @ 2025-06-20
+2025-06-21 01:05:53 INFO     SYY @ 2025-06-20
+2025-06-21 01:05:53 INFO     TMUS @ 2025-06-20
+2025-06-21 01:05:53 INFO     TROW @ 2025-06-20
+2025-06-21 01:05:54 INFO     TTWO @ 2025-06-20
+2025-06-21 01:05:54 INFO     TPR @ 2025-06-20
+2025-06-21 01:05:54 INFO     TRGP @ 2025-06-20
+2025-06-21 01:05:54 INFO     TGT @ 2025-06-20
+2025-06-21 01:05:54 INFO     TEL @ 2025-06-20
+2025-06-21 01:05:54 INFO     TDY @ 2025-06-20
+2025-06-21 01:05:54 INFO     TER @ 2025-06-20
+2025-06-21 01:05:54 INFO     TSLA @ 2025-06-20
+2025-06-21 01:05:54 INFO     TXN @ 2025-06-20
+2025-06-21 01:05:54 INFO     TPL @ 2025-06-20
+2025-06-21 01:05:54 INFO     TXT @ 2025-06-20
+2025-06-21 01:05:54 INFO     TMO @ 2025-06-20
+2025-06-21 01:05:54 INFO     TJX @ 2025-06-20
+2025-06-21 01:05:54 INFO     TKO @ 2025-06-20
+2025-06-21 01:05:54 INFO     TSCO @ 2025-06-20
+2025-06-21 01:05:54 INFO     TT @ 2025-06-20
+2025-06-21 01:05:54 INFO     TDG @ 2025-06-20
+2025-06-21 01:05:54 INFO     TRV @ 2025-06-20
+2025-06-21 01:05:54 INFO     TRMB @ 2025-06-20
+2025-06-21 01:05:54 INFO     TFC @ 2025-06-20
+2025-06-21 01:05:54 INFO     TYL @ 2025-06-20
+2025-06-21 01:05:54 INFO     TSN @ 2025-06-20
+2025-06-21 01:05:54 INFO     USB @ 2025-06-20
+2025-06-21 01:05:54 INFO     UBER @ 2025-06-20
+2025-06-21 01:05:54 INFO     UDR @ 2025-06-20
+2025-06-21 01:05:54 INFO     ULTA @ 2025-06-20
+2025-06-21 01:05:54 INFO     UNP @ 2025-06-20
+2025-06-21 01:05:54 INFO     UAL @ 2025-06-20
+2025-06-21 01:05:54 INFO     UPS @ 2025-06-20
+2025-06-21 01:05:54 INFO     URI @ 2025-06-20
+2025-06-21 01:05:55 INFO     UNH @ 2025-06-20
+2025-06-21 01:05:55 INFO     UHS @ 2025-06-20
+2025-06-21 01:05:55 INFO     VLO @ 2025-06-20
+2025-06-21 01:05:55 INFO     VTR @ 2025-06-20
+2025-06-21 01:05:55 INFO     VLTO @ 2025-06-20
+2025-06-21 01:05:55 INFO     VRSN @ 2025-06-20
+2025-06-21 01:05:55 INFO     VRSK @ 2025-06-20
+2025-06-21 01:05:55 INFO     VZ @ 2025-06-20
+2025-06-21 01:05:55 INFO     VRTX @ 2025-06-20
+2025-06-21 01:05:55 INFO     VTRS @ 2025-06-20
+2025-06-21 01:05:55 INFO     VICI @ 2025-06-20
+2025-06-21 01:05:55 INFO     V @ 2025-06-20
+2025-06-21 01:05:55 INFO     VST @ 2025-06-20
+2025-06-21 01:05:55 INFO     VMC @ 2025-06-20
+2025-06-21 01:05:55 INFO     WRB @ 2025-06-20
+2025-06-21 01:05:55 INFO     GWW @ 2025-06-20
+2025-06-21 01:05:55 INFO     WAB @ 2025-06-20
+2025-06-21 01:05:55 INFO     WBA @ 2025-06-20
+2025-06-21 01:05:55 INFO     WMT @ 2025-06-20
+2025-06-21 01:05:55 INFO     DIS @ 2025-06-20
+2025-06-21 01:05:55 INFO     WBD @ 2025-06-20
+2025-06-21 01:05:55 INFO     WM @ 2025-06-20
+2025-06-21 01:05:55 INFO     WAT @ 2025-06-20
+2025-06-21 01:05:55 INFO     WEC @ 2025-06-20
+2025-06-21 01:05:55 INFO     WFC @ 2025-06-20
+2025-06-21 01:05:55 INFO     WELL @ 2025-06-20
+2025-06-21 01:05:55 INFO     WST @ 2025-06-20
+2025-06-21 01:05:55 INFO     WDC @ 2025-06-20
+2025-06-21 01:05:55 INFO     WY @ 2025-06-20
+2025-06-21 01:05:55 INFO     WSM @ 2025-06-20
+2025-06-21 01:05:55 INFO     WMB @ 2025-06-20
+2025-06-21 01:05:56 INFO     WTW @ 2025-06-20
+2025-06-21 01:05:56 INFO     WDAY @ 2025-06-20
+2025-06-21 01:05:56 INFO     WYNN @ 2025-06-20
+2025-06-21 01:05:56 INFO     XEL @ 2025-06-20
+2025-06-21 01:05:56 INFO     XYL @ 2025-06-20
+2025-06-21 01:05:56 INFO     YUM @ 2025-06-20
+2025-06-21 01:05:56 INFO     ZBRA @ 2025-06-20
+2025-06-21 01:05:56 INFO     ZBH @ 2025-06-20
+2025-06-21 01:05:56 INFO     ZTS @ 2025-06-20
+2025-06-21 01:05:56 INFO     Price update run complete
+2025-06-21 01:20:03 INFO     Starting price update run
+2025-06-21 01:20:03 INFO     Fetching latest prices for 503 tickers
+2025-06-21 01:20:23 INFO     MMM @ 2025-06-20
+2025-06-21 01:20:23 INFO     AOS @ 2025-06-20
+2025-06-21 01:20:23 INFO     ABT @ 2025-06-20
+2025-06-21 01:20:23 INFO     ABBV @ 2025-06-20
+2025-06-21 01:20:23 INFO     ACN @ 2025-06-20
+2025-06-21 01:20:23 INFO     ADBE @ 2025-06-20
+2025-06-21 01:20:23 INFO     AMD @ 2025-06-20
+2025-06-21 01:20:23 INFO     AES @ 2025-06-20
+2025-06-21 01:20:23 INFO     AFL @ 2025-06-20
+2025-06-21 01:20:23 INFO     A @ 2025-06-20
+2025-06-21 01:20:23 INFO     APD @ 2025-06-20
+2025-06-21 01:20:23 INFO     ABNB @ 2025-06-20
+2025-06-21 01:20:23 INFO     AKAM @ 2025-06-20
+2025-06-21 01:20:23 INFO     ALB @ 2025-06-20
+2025-06-21 01:20:23 INFO     ARE @ 2025-06-20
+2025-06-21 01:20:23 INFO     ALGN @ 2025-06-20
+2025-06-21 01:20:23 INFO     ALLE @ 2025-06-20
+2025-06-21 01:20:23 INFO     LNT @ 2025-06-20
+2025-06-21 01:20:23 INFO     ALL @ 2025-06-20
+2025-06-21 01:20:23 INFO     GOOGL @ 2025-06-20
+2025-06-21 01:20:23 INFO     GOOG @ 2025-06-20
+2025-06-21 01:20:24 INFO     MO @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMZN @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMCR @ 2025-06-20
+2025-06-21 01:20:24 INFO     AEE @ 2025-06-20
+2025-06-21 01:20:24 INFO     AEP @ 2025-06-20
+2025-06-21 01:20:24 INFO     AXP @ 2025-06-20
+2025-06-21 01:20:24 INFO     AIG @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMT @ 2025-06-20
+2025-06-21 01:20:24 INFO     AWK @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMP @ 2025-06-20
+2025-06-21 01:20:24 INFO     AME @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMGN @ 2025-06-20
+2025-06-21 01:20:24 INFO     APH @ 2025-06-20
+2025-06-21 01:20:24 INFO     ADI @ 2025-06-20
+2025-06-21 01:20:24 INFO     ANSS @ 2025-06-20
+2025-06-21 01:20:24 INFO     AON @ 2025-06-20
+2025-06-21 01:20:24 INFO     APA @ 2025-06-20
+2025-06-21 01:20:24 INFO     APO @ 2025-06-20
+2025-06-21 01:20:24 INFO     AAPL @ 2025-06-20
+2025-06-21 01:20:24 INFO     AMAT @ 2025-06-20
+2025-06-21 01:20:24 INFO     APTV @ 2025-06-20
+2025-06-21 01:20:24 INFO     ACGL @ 2025-06-20
+2025-06-21 01:20:24 INFO     ADM @ 2025-06-20
+2025-06-21 01:20:24 INFO     ANET @ 2025-06-20
+2025-06-21 01:20:24 INFO     AJG @ 2025-06-20
+2025-06-21 01:20:24 INFO     AIZ @ 2025-06-20
+2025-06-21 01:20:24 INFO     T @ 2025-06-20
+2025-06-21 01:20:24 INFO     ATO @ 2025-06-20
+2025-06-21 01:20:24 INFO     ADSK @ 2025-06-20
+2025-06-21 01:20:24 INFO     ADP @ 2025-06-20
+2025-06-21 01:20:24 INFO     AZO @ 2025-06-20
+2025-06-21 01:20:24 INFO     AVB @ 2025-06-20
+2025-06-21 01:20:24 INFO     AVY @ 2025-06-20
+2025-06-21 01:20:24 INFO     AXON @ 2025-06-20
+2025-06-21 01:20:24 INFO     BKR @ 2025-06-20
+2025-06-21 01:20:24 INFO     BALL @ 2025-06-20
+2025-06-21 01:20:24 INFO     BAC @ 2025-06-20
+2025-06-21 01:20:24 INFO     BAX @ 2025-06-20
+2025-06-21 01:20:24 INFO     BDX @ 2025-06-20
+2025-06-21 01:20:24 INFO     BRK.B @ 2025-06-20
+2025-06-21 01:20:25 INFO     BBY @ 2025-06-20
+2025-06-21 01:20:25 INFO     TECH @ 2025-06-20
+2025-06-21 01:20:25 INFO     BIIB @ 2025-06-20
+2025-06-21 01:20:25 INFO     BLK @ 2025-06-20
+2025-06-21 01:20:25 INFO     BX @ 2025-06-20
+2025-06-21 01:20:25 INFO     BK @ 2025-06-20
+2025-06-21 01:20:25 INFO     BA @ 2025-06-20
+2025-06-21 01:20:25 INFO     BKNG @ 2025-06-20
+2025-06-21 01:20:25 INFO     BSX @ 2025-06-20
+2025-06-21 01:20:25 INFO     BMY @ 2025-06-20
+2025-06-21 01:20:25 INFO     AVGO @ 2025-06-20
+2025-06-21 01:20:25 INFO     BR @ 2025-06-20
+2025-06-21 01:20:25 INFO     BRO @ 2025-06-20
+2025-06-21 01:20:25 INFO     BF.B @ 2025-06-20
+2025-06-21 01:20:25 INFO     BLDR @ 2025-06-20
+2025-06-21 01:20:25 INFO     BG @ 2025-06-20
+2025-06-21 01:20:25 INFO     BXP @ 2025-06-20
+2025-06-21 01:20:25 INFO     CHRW @ 2025-06-20
+2025-06-21 01:20:25 INFO     CDNS @ 2025-06-20
+2025-06-21 01:20:25 INFO     CZR @ 2025-06-20
+2025-06-21 01:20:25 INFO     CPT @ 2025-06-20
+2025-06-21 01:20:25 INFO     CPB @ 2025-06-20
+2025-06-21 01:20:25 INFO     COF @ 2025-06-20
+2025-06-21 01:20:25 INFO     CAH @ 2025-06-20
+2025-06-21 01:20:25 INFO     KMX @ 2025-06-20
+2025-06-21 01:20:25 INFO     CCL @ 2025-06-20
+2025-06-21 01:20:25 INFO     CARR @ 2025-06-20
+2025-06-21 01:20:25 INFO     CAT @ 2025-06-20
+2025-06-21 01:20:25 INFO     CBOE @ 2025-06-20
+2025-06-21 01:20:25 INFO     CBRE @ 2025-06-20
+2025-06-21 01:20:25 INFO     CDW @ 2025-06-20
+2025-06-21 01:20:25 INFO     COR @ 2025-06-20
+2025-06-21 01:20:25 INFO     CNC @ 2025-06-20
+2025-06-21 01:20:25 INFO     CNP @ 2025-06-20
+2025-06-21 01:20:25 INFO     CF @ 2025-06-20
+2025-06-21 01:20:25 INFO     CRL @ 2025-06-20
+2025-06-21 01:20:25 INFO     SCHW @ 2025-06-20
+2025-06-21 01:20:25 INFO     CHTR @ 2025-06-20
+2025-06-21 01:20:26 INFO     CVX @ 2025-06-20
+2025-06-21 01:20:26 INFO     CMG @ 2025-06-20
+2025-06-21 01:20:26 INFO     CB @ 2025-06-20
+2025-06-21 01:20:26 INFO     CHD @ 2025-06-20
+2025-06-21 01:20:26 INFO     CI @ 2025-06-20
+2025-06-21 01:20:26 INFO     CINF @ 2025-06-20
+2025-06-21 01:20:26 INFO     CTAS @ 2025-06-20
+2025-06-21 01:20:26 INFO     CSCO @ 2025-06-20
+2025-06-21 01:20:26 INFO     C @ 2025-06-20
+2025-06-21 01:20:26 INFO     CFG @ 2025-06-20
+2025-06-21 01:20:26 INFO     CLX @ 2025-06-20
+2025-06-21 01:20:26 INFO     CME @ 2025-06-20
+2025-06-21 01:20:26 INFO     CMS @ 2025-06-20
+2025-06-21 01:20:26 INFO     KO @ 2025-06-20
+2025-06-21 01:20:26 INFO     CTSH @ 2025-06-20
+2025-06-21 01:20:26 INFO     COIN @ 2025-06-20
+2025-06-21 01:20:26 INFO     CL @ 2025-06-20
+2025-06-21 01:20:26 INFO     CMCSA @ 2025-06-20
+2025-06-21 01:20:26 INFO     CAG @ 2025-06-20
+2025-06-21 01:20:26 INFO     COP @ 2025-06-20
+2025-06-21 01:20:26 INFO     ED @ 2025-06-20
+2025-06-21 01:20:26 INFO     STZ @ 2025-06-20
+2025-06-21 01:20:26 INFO     CEG @ 2025-06-20
+2025-06-21 01:20:26 INFO     COO @ 2025-06-20
+2025-06-21 01:20:26 INFO     CPRT @ 2025-06-20
+2025-06-21 01:20:26 INFO     GLW @ 2025-06-20
+2025-06-21 01:20:26 INFO     CPAY @ 2025-06-20
+2025-06-21 01:20:26 INFO     CTVA @ 2025-06-20
+2025-06-21 01:20:26 INFO     CSGP @ 2025-06-20
+2025-06-21 01:20:26 INFO     COST @ 2025-06-20
+2025-06-21 01:20:26 INFO     CTRA @ 2025-06-20
+2025-06-21 01:20:26 INFO     CRWD @ 2025-06-20
+2025-06-21 01:20:26 INFO     CCI @ 2025-06-20
+2025-06-21 01:20:26 INFO     CSX @ 2025-06-20
+2025-06-21 01:20:26 INFO     CMI @ 2025-06-20
+2025-06-21 01:20:26 INFO     CVS @ 2025-06-20
+2025-06-21 01:20:26 INFO     DHR @ 2025-06-20
+2025-06-21 01:20:27 INFO     DRI @ 2025-06-20
+2025-06-21 01:20:27 INFO     DVA @ 2025-06-20
+2025-06-21 01:20:27 INFO     DAY @ 2025-06-20
+2025-06-21 01:20:27 INFO     DECK @ 2025-06-20
+2025-06-21 01:20:27 INFO     DE @ 2025-06-20
+2025-06-21 01:20:27 INFO     DELL @ 2025-06-20
+2025-06-21 01:20:27 INFO     DAL @ 2025-06-20
+2025-06-21 01:20:27 INFO     DVN @ 2025-06-20
+2025-06-21 01:20:27 INFO     DXCM @ 2025-06-20
+2025-06-21 01:20:27 INFO     FANG @ 2025-06-20
+2025-06-21 01:20:27 INFO     DLR @ 2025-06-20
+2025-06-21 01:20:27 INFO     DG @ 2025-06-20
+2025-06-21 01:20:27 INFO     DLTR @ 2025-06-20
+2025-06-21 01:20:27 INFO     D @ 2025-06-20
+2025-06-21 01:20:27 INFO     DPZ @ 2025-06-20
+2025-06-21 01:20:27 INFO     DASH @ 2025-06-20
+2025-06-21 01:20:27 INFO     DOV @ 2025-06-20
+2025-06-21 01:20:27 INFO     DOW @ 2025-06-20
+2025-06-21 01:20:27 INFO     DHI @ 2025-06-20
+2025-06-21 01:20:27 INFO     DTE @ 2025-06-20
+2025-06-21 01:20:27 INFO     DUK @ 2025-06-20
+2025-06-21 01:20:27 INFO     DD @ 2025-06-20
+2025-06-21 01:20:27 INFO     EMN @ 2025-06-20
+2025-06-21 01:20:27 INFO     ETN @ 2025-06-20
+2025-06-21 01:20:27 INFO     EBAY @ 2025-06-20
+2025-06-21 01:20:27 INFO     ECL @ 2025-06-20
+2025-06-21 01:20:27 INFO     EIX @ 2025-06-20
+2025-06-21 01:20:27 INFO     EW @ 2025-06-20
+2025-06-21 01:20:27 INFO     EA @ 2025-06-20
+2025-06-21 01:20:27 INFO     ELV @ 2025-06-20
+2025-06-21 01:20:27 INFO     EMR @ 2025-06-20
+2025-06-21 01:20:27 INFO     ENPH @ 2025-06-20
+2025-06-21 01:20:27 INFO     ETR @ 2025-06-20
+2025-06-21 01:20:27 INFO     EOG @ 2025-06-20
+2025-06-21 01:20:27 INFO     EPAM @ 2025-06-20
+2025-06-21 01:20:27 INFO     EQT @ 2025-06-20
+2025-06-21 01:20:27 INFO     EFX @ 2025-06-20
+2025-06-21 01:20:27 INFO     EQIX @ 2025-06-20
+2025-06-21 01:20:27 INFO     EQR @ 2025-06-20
+2025-06-21 01:20:28 INFO     ERIE @ 2025-06-20
+2025-06-21 01:20:28 INFO     ESS @ 2025-06-20
+2025-06-21 01:20:28 INFO     EL @ 2025-06-20
+2025-06-21 01:20:28 INFO     EG @ 2025-06-20
+2025-06-21 01:20:28 INFO     EVRG @ 2025-06-20
+2025-06-21 01:20:28 INFO     ES @ 2025-06-20
+2025-06-21 01:20:28 INFO     EXC @ 2025-06-20
+2025-06-21 01:20:28 INFO     EXE @ 2025-06-20
+2025-06-21 01:20:28 INFO     EXPE @ 2025-06-20
+2025-06-21 01:20:28 INFO     EXPD @ 2025-06-20
+2025-06-21 01:20:28 INFO     EXR @ 2025-06-20
+2025-06-21 01:20:28 INFO     XOM @ 2025-06-20
+2025-06-21 01:20:28 INFO     FFIV @ 2025-06-20
+2025-06-21 01:20:28 INFO     FDS @ 2025-06-20
+2025-06-21 01:20:28 INFO     FICO @ 2025-06-20
+2025-06-21 01:20:28 INFO     FAST @ 2025-06-20
+2025-06-21 01:20:28 INFO     FRT @ 2025-06-20
+2025-06-21 01:20:28 INFO     FDX @ 2025-06-20
+2025-06-21 01:20:28 INFO     FIS @ 2025-06-20
+2025-06-21 01:20:28 INFO     FITB @ 2025-06-20
+2025-06-21 01:20:28 INFO     FSLR @ 2025-06-20
+2025-06-21 01:20:28 INFO     FE @ 2025-06-20
+2025-06-21 01:20:28 INFO     FI @ 2025-06-20
+2025-06-21 01:20:28 INFO     F @ 2025-06-20
+2025-06-21 01:20:28 INFO     FTNT @ 2025-06-20
+2025-06-21 01:20:28 INFO     FTV @ 2025-06-20
+2025-06-21 01:20:28 INFO     FOXA @ 2025-06-20
+2025-06-21 01:20:28 INFO     FOX @ 2025-06-20
+2025-06-21 01:20:28 INFO     BEN @ 2025-06-20
+2025-06-21 01:20:28 INFO     FCX @ 2025-06-20
+2025-06-21 01:20:28 INFO     GRMN @ 2025-06-20
+2025-06-21 01:20:28 INFO     IT @ 2025-06-20
+2025-06-21 01:20:28 INFO     GE @ 2025-06-20
+2025-06-21 01:20:28 INFO     GEHC @ 2025-06-20
+2025-06-21 01:20:28 INFO     GEV @ 2025-06-20
+2025-06-21 01:20:28 INFO     GEN @ 2025-06-20
+2025-06-21 01:20:28 INFO     GNRC @ 2025-06-20
+2025-06-21 01:20:28 INFO     GD @ 2025-06-20
+2025-06-21 01:20:29 INFO     GIS @ 2025-06-20
+2025-06-21 01:20:29 INFO     GM @ 2025-06-20
+2025-06-21 01:20:29 INFO     GPC @ 2025-06-20
+2025-06-21 01:20:29 INFO     GILD @ 2025-06-20
+2025-06-21 01:20:29 INFO     GPN @ 2025-06-20
+2025-06-21 01:20:29 INFO     GL @ 2025-06-20
+2025-06-21 01:20:29 INFO     GDDY @ 2025-06-20
+2025-06-21 01:20:29 INFO     GS @ 2025-06-20
+2025-06-21 01:20:29 INFO     HAL @ 2025-06-20
+2025-06-21 01:20:29 INFO     HIG @ 2025-06-20
+2025-06-21 01:20:29 INFO     HAS @ 2025-06-20
+2025-06-21 01:20:29 INFO     HCA @ 2025-06-20
+2025-06-21 01:20:29 INFO     DOC @ 2025-06-20
+2025-06-21 01:20:29 INFO     HSIC @ 2025-06-20
+2025-06-21 01:20:29 INFO     HSY @ 2025-06-20
+2025-06-21 01:20:29 INFO     HES @ 2025-06-20
+2025-06-21 01:20:29 INFO     HPE @ 2025-06-20
+2025-06-21 01:20:29 INFO     HLT @ 2025-06-20
+2025-06-21 01:20:29 INFO     HOLX @ 2025-06-20
+2025-06-21 01:20:29 INFO     HD @ 2025-06-20
+2025-06-21 01:20:29 INFO     HON @ 2025-06-20
+2025-06-21 01:20:29 INFO     HRL @ 2025-06-20
+2025-06-21 01:20:29 INFO     HST @ 2025-06-20
+2025-06-21 01:20:29 INFO     HWM @ 2025-06-20
+2025-06-21 01:20:29 INFO     HPQ @ 2025-06-20
+2025-06-21 01:20:29 INFO     HUBB @ 2025-06-20
+2025-06-21 01:20:29 INFO     HUM @ 2025-06-20
+2025-06-21 01:20:29 INFO     HBAN @ 2025-06-20
+2025-06-21 01:20:29 INFO     HII @ 2025-06-20
+2025-06-21 01:20:29 INFO     IBM @ 2025-06-20
+2025-06-21 01:20:29 INFO     IEX @ 2025-06-20
+2025-06-21 01:20:29 INFO     IDXX @ 2025-06-20
+2025-06-21 01:20:29 INFO     ITW @ 2025-06-20
+2025-06-21 01:20:29 INFO     INCY @ 2025-06-20
+2025-06-21 01:20:29 INFO     IR @ 2025-06-20
+2025-06-21 01:20:29 INFO     PODD @ 2025-06-20
+2025-06-21 01:20:29 INFO     INTC @ 2025-06-20
+2025-06-21 01:20:30 INFO     ICE @ 2025-06-20
+2025-06-21 01:20:30 INFO     IFF @ 2025-06-20
+2025-06-21 01:20:30 INFO     IP @ 2025-06-20
+2025-06-21 01:20:30 INFO     IPG @ 2025-06-20
+2025-06-21 01:20:30 INFO     INTU @ 2025-06-20
+2025-06-21 01:20:30 INFO     ISRG @ 2025-06-20
+2025-06-21 01:20:30 INFO     IVZ @ 2025-06-20
+2025-06-21 01:20:30 INFO     INVH @ 2025-06-20
+2025-06-21 01:20:30 INFO     IQV @ 2025-06-20
+2025-06-21 01:20:30 INFO     IRM @ 2025-06-20
+2025-06-21 01:20:30 INFO     JBHT @ 2025-06-20
+2025-06-21 01:20:30 INFO     JBL @ 2025-06-20
+2025-06-21 01:20:30 INFO     JKHY @ 2025-06-20
+2025-06-21 01:20:30 INFO     J @ 2025-06-20
+2025-06-21 01:20:30 INFO     JNJ @ 2025-06-20
+2025-06-21 01:20:30 INFO     JCI @ 2025-06-20
+2025-06-21 01:20:30 INFO     JPM @ 2025-06-20
+2025-06-21 01:20:30 INFO     JNPR @ 2025-06-20
+2025-06-21 01:20:30 INFO     K @ 2025-06-20
+2025-06-21 01:20:30 INFO     KVUE @ 2025-06-20
+2025-06-21 01:20:30 INFO     KDP @ 2025-06-20
+2025-06-21 01:20:30 INFO     KEY @ 2025-06-20
+2025-06-21 01:20:30 INFO     KEYS @ 2025-06-20
+2025-06-21 01:20:30 INFO     KMB @ 2025-06-20
+2025-06-21 01:20:30 INFO     KIM @ 2025-06-20
+2025-06-21 01:20:30 INFO     KMI @ 2025-06-20
+2025-06-21 01:20:30 INFO     KKR @ 2025-06-20
+2025-06-21 01:20:30 INFO     KLAC @ 2025-06-20
+2025-06-21 01:20:30 INFO     KHC @ 2025-06-20
+2025-06-21 01:20:30 INFO     KR @ 2025-06-20
+2025-06-21 01:20:30 INFO     LHX @ 2025-06-20
+2025-06-21 01:20:30 INFO     LH @ 2025-06-20
+2025-06-21 01:20:30 INFO     LRCX @ 2025-06-20
+2025-06-21 01:20:30 INFO     LW @ 2025-06-20
+2025-06-21 01:20:30 INFO     LVS @ 2025-06-20
+2025-06-21 01:20:30 INFO     LDOS @ 2025-06-20
+2025-06-21 01:20:30 INFO     LEN @ 2025-06-20
+2025-06-21 01:20:31 INFO     LII @ 2025-06-20
+2025-06-21 01:20:31 INFO     LLY @ 2025-06-20
+2025-06-21 01:20:31 INFO     LIN @ 2025-06-20
+2025-06-21 01:20:31 INFO     LYV @ 2025-06-20
+2025-06-21 01:20:31 INFO     LKQ @ 2025-06-20
+2025-06-21 01:20:31 INFO     LMT @ 2025-06-20
+2025-06-21 01:20:31 INFO     L @ 2025-06-20
+2025-06-21 01:20:31 INFO     LOW @ 2025-06-20
+2025-06-21 01:20:31 INFO     LULU @ 2025-06-20
+2025-06-21 01:20:31 INFO     LYB @ 2025-06-20
+2025-06-21 01:20:31 INFO     MTB @ 2025-06-20
+2025-06-21 01:20:31 INFO     MPC @ 2025-06-20
+2025-06-21 01:20:31 INFO     MKTX @ 2025-06-20
+2025-06-21 01:20:31 INFO     MAR @ 2025-06-20
+2025-06-21 01:20:31 INFO     MMC @ 2025-06-20
+2025-06-21 01:20:31 INFO     MLM @ 2025-06-20
+2025-06-21 01:20:31 INFO     MAS @ 2025-06-20
+2025-06-21 01:20:31 INFO     MA @ 2025-06-20
+2025-06-21 01:20:31 INFO     MTCH @ 2025-06-20
+2025-06-21 01:20:31 INFO     MKC @ 2025-06-20
+2025-06-21 01:20:31 INFO     MCD @ 2025-06-20
+2025-06-21 01:20:31 INFO     MCK @ 2025-06-20
+2025-06-21 01:20:31 INFO     MDT @ 2025-06-20
+2025-06-21 01:20:31 INFO     MRK @ 2025-06-20
+2025-06-21 01:20:31 INFO     META @ 2025-06-20
+2025-06-21 01:20:31 INFO     MET @ 2025-06-20
+2025-06-21 01:20:31 INFO     MTD @ 2025-06-20
+2025-06-21 01:20:31 INFO     MGM @ 2025-06-20
+2025-06-21 01:20:31 INFO     MCHP @ 2025-06-20
+2025-06-21 01:20:31 INFO     MU @ 2025-06-20
+2025-06-21 01:20:31 INFO     MSFT @ 2025-06-20
+2025-06-21 01:20:31 INFO     MAA @ 2025-06-20
+2025-06-21 01:20:31 INFO     MRNA @ 2025-06-20
+2025-06-21 01:20:31 INFO     MHK @ 2025-06-20
+2025-06-21 01:20:31 INFO     MOH @ 2025-06-20
+2025-06-21 01:20:31 INFO     TAP @ 2025-06-20
+2025-06-21 01:20:31 INFO     MDLZ @ 2025-06-20
+2025-06-21 01:20:32 INFO     MPWR @ 2025-06-20
+2025-06-21 01:20:32 INFO     MNST @ 2025-06-20
+2025-06-21 01:20:32 INFO     MCO @ 2025-06-20
+2025-06-21 01:20:32 INFO     MS @ 2025-06-20
+2025-06-21 01:20:32 INFO     MOS @ 2025-06-20
+2025-06-21 01:20:32 INFO     MSI @ 2025-06-20
+2025-06-21 01:20:32 INFO     MSCI @ 2025-06-20
+2025-06-21 01:20:32 INFO     NDAQ @ 2025-06-20
+2025-06-21 01:20:32 INFO     NTAP @ 2025-06-20
+2025-06-21 01:20:32 INFO     NFLX @ 2025-06-20
+2025-06-21 01:20:32 INFO     NEM @ 2025-06-20
+2025-06-21 01:20:32 INFO     NWSA @ 2025-06-20
+2025-06-21 01:20:32 INFO     NWS @ 2025-06-20
+2025-06-21 01:20:32 INFO     NEE @ 2025-06-20
+2025-06-21 01:20:32 INFO     NKE @ 2025-06-20
+2025-06-21 01:20:32 INFO     NI @ 2025-06-20
+2025-06-21 01:20:32 INFO     NDSN @ 2025-06-20
+2025-06-21 01:20:32 INFO     NSC @ 2025-06-20
+2025-06-21 01:20:32 INFO     NTRS @ 2025-06-20
+2025-06-21 01:20:32 INFO     NOC @ 2025-06-20
+2025-06-21 01:20:32 INFO     NCLH @ 2025-06-20
+2025-06-21 01:20:32 INFO     NRG @ 2025-06-20
+2025-06-21 01:20:32 INFO     NUE @ 2025-06-20
+2025-06-21 01:20:32 INFO     NVDA @ 2025-06-20
+2025-06-21 01:20:32 INFO     NVR @ 2025-06-20
+2025-06-21 01:20:32 INFO     NXPI @ 2025-06-20
+2025-06-21 01:20:32 INFO     ORLY @ 2025-06-20
+2025-06-21 01:20:32 INFO     OXY @ 2025-06-20
+2025-06-21 01:20:32 INFO     ODFL @ 2025-06-20
+2025-06-21 01:20:32 INFO     OMC @ 2025-06-20
+2025-06-21 01:20:32 INFO     ON @ 2025-06-20
+2025-06-21 01:20:32 INFO     OKE @ 2025-06-20
+2025-06-21 01:20:32 INFO     ORCL @ 2025-06-20
+2025-06-21 01:20:32 INFO     OTIS @ 2025-06-20
+2025-06-21 01:20:32 INFO     PCAR @ 2025-06-20
+2025-06-21 01:20:32 INFO     PKG @ 2025-06-20
+2025-06-21 01:20:32 INFO     PLTR @ 2025-06-20
+2025-06-21 01:20:33 INFO     PANW @ 2025-06-20
+2025-06-21 01:20:33 INFO     PARA @ 2025-06-20
+2025-06-21 01:20:33 INFO     PH @ 2025-06-20
+2025-06-21 01:20:33 INFO     PAYX @ 2025-06-20
+2025-06-21 01:20:33 INFO     PAYC @ 2025-06-20
+2025-06-21 01:20:33 INFO     PYPL @ 2025-06-20
+2025-06-21 01:20:33 INFO     PNR @ 2025-06-20
+2025-06-21 01:20:33 INFO     PEP @ 2025-06-20
+2025-06-21 01:20:33 INFO     PFE @ 2025-06-20
+2025-06-21 01:20:33 INFO     PCG @ 2025-06-20
+2025-06-21 01:20:33 INFO     PM @ 2025-06-20
+2025-06-21 01:20:33 INFO     PSX @ 2025-06-20
+2025-06-21 01:20:33 INFO     PNW @ 2025-06-20
+2025-06-21 01:20:33 INFO     PNC @ 2025-06-20
+2025-06-21 01:20:33 INFO     POOL @ 2025-06-20
+2025-06-21 01:20:33 INFO     PPG @ 2025-06-20
+2025-06-21 01:20:33 INFO     PPL @ 2025-06-20
+2025-06-21 01:20:33 INFO     PFG @ 2025-06-20
+2025-06-21 01:20:33 INFO     PG @ 2025-06-20
+2025-06-21 01:20:33 INFO     PGR @ 2025-06-20
+2025-06-21 01:20:33 INFO     PLD @ 2025-06-20
+2025-06-21 01:20:33 INFO     PRU @ 2025-06-20
+2025-06-21 01:20:33 INFO     PEG @ 2025-06-20
+2025-06-21 01:20:33 INFO     PTC @ 2025-06-20
+2025-06-21 01:20:33 INFO     PSA @ 2025-06-20
+2025-06-21 01:20:33 INFO     PHM @ 2025-06-20
+2025-06-21 01:20:33 INFO     PWR @ 2025-06-20
+2025-06-21 01:20:33 INFO     QCOM @ 2025-06-20
+2025-06-21 01:20:33 INFO     DGX @ 2025-06-20
+2025-06-21 01:20:33 INFO     RL @ 2025-06-20
+2025-06-21 01:20:33 INFO     RJF @ 2025-06-20
+2025-06-21 01:20:33 INFO     RTX @ 2025-06-20
+2025-06-21 01:20:33 INFO     O @ 2025-06-20
+2025-06-21 01:20:33 INFO     REG @ 2025-06-20
+2025-06-21 01:20:33 INFO     REGN @ 2025-06-20
+2025-06-21 01:20:33 INFO     RF @ 2025-06-20
+2025-06-21 01:20:34 INFO     RSG @ 2025-06-20
+2025-06-21 01:20:34 INFO     RMD @ 2025-06-20
+2025-06-21 01:20:34 INFO     RVTY @ 2025-06-20
+2025-06-21 01:20:34 INFO     ROK @ 2025-06-20
+2025-06-21 01:20:34 INFO     ROL @ 2025-06-20
+2025-06-21 01:20:34 INFO     ROP @ 2025-06-20
+2025-06-21 01:20:34 INFO     ROST @ 2025-06-20
+2025-06-21 01:20:34 INFO     RCL @ 2025-06-20
+2025-06-21 01:20:34 INFO     SPGI @ 2025-06-20
+2025-06-21 01:20:34 INFO     CRM @ 2025-06-20
+2025-06-21 01:20:34 INFO     SBAC @ 2025-06-20
+2025-06-21 01:20:34 INFO     SLB @ 2025-06-20
+2025-06-21 01:20:34 INFO     STX @ 2025-06-20
+2025-06-21 01:20:34 INFO     SRE @ 2025-06-20
+2025-06-21 01:20:34 INFO     NOW @ 2025-06-20
+2025-06-21 01:20:34 INFO     SHW @ 2025-06-20
+2025-06-21 01:20:34 INFO     SPG @ 2025-06-20
+2025-06-21 01:20:34 INFO     SWKS @ 2025-06-20
+2025-06-21 01:20:34 INFO     SJM @ 2025-06-20
+2025-06-21 01:20:34 INFO     SW @ 2025-06-20
+2025-06-21 01:20:34 INFO     SNA @ 2025-06-20
+2025-06-21 01:20:34 INFO     SOLV @ 2025-06-20
+2025-06-21 01:20:34 INFO     SO @ 2025-06-20
+2025-06-21 01:20:34 INFO     LUV @ 2025-06-20
+2025-06-21 01:20:34 INFO     SWK @ 2025-06-20
+2025-06-21 01:20:34 INFO     SBUX @ 2025-06-20
+2025-06-21 01:20:34 INFO     STT @ 2025-06-20
+2025-06-21 01:20:34 INFO     STLD @ 2025-06-20
+2025-06-21 01:20:34 INFO     STE @ 2025-06-20
+2025-06-21 01:20:34 INFO     SYK @ 2025-06-20
+2025-06-21 01:20:34 INFO     SMCI @ 2025-06-20
+2025-06-21 01:20:34 INFO     SYF @ 2025-06-20
+2025-06-21 01:20:34 INFO     SNPS @ 2025-06-20
+2025-06-21 01:20:34 INFO     SYY @ 2025-06-20
+2025-06-21 01:20:34 INFO     TMUS @ 2025-06-20
+2025-06-21 01:20:34 INFO     TROW @ 2025-06-20
+2025-06-21 01:20:34 INFO     TTWO @ 2025-06-20
+2025-06-21 01:20:35 INFO     TPR @ 2025-06-20
+2025-06-21 01:20:35 INFO     TRGP @ 2025-06-20
+2025-06-21 01:20:35 INFO     TGT @ 2025-06-20
+2025-06-21 01:20:35 INFO     TEL @ 2025-06-20
+2025-06-21 01:20:35 INFO     TDY @ 2025-06-20
+2025-06-21 01:20:35 INFO     TER @ 2025-06-20
+2025-06-21 01:20:35 INFO     TSLA @ 2025-06-20
+2025-06-21 01:20:35 INFO     TXN @ 2025-06-20
+2025-06-21 01:20:35 INFO     TPL @ 2025-06-20
+2025-06-21 01:20:35 INFO     TXT @ 2025-06-20
+2025-06-21 01:20:35 INFO     TMO @ 2025-06-20
+2025-06-21 01:20:35 INFO     TJX @ 2025-06-20
+2025-06-21 01:20:35 INFO     TKO @ 2025-06-20
+2025-06-21 01:20:35 INFO     TSCO @ 2025-06-20
+2025-06-21 01:20:35 INFO     TT @ 2025-06-20
+2025-06-21 01:20:35 INFO     TDG @ 2025-06-20
+2025-06-21 01:20:35 INFO     TRV @ 2025-06-20
+2025-06-21 01:20:35 INFO     TRMB @ 2025-06-20
+2025-06-21 01:20:35 INFO     TFC @ 2025-06-20
+2025-06-21 01:20:35 INFO     TYL @ 2025-06-20
+2025-06-21 01:20:35 INFO     TSN @ 2025-06-20
+2025-06-21 01:20:35 INFO     USB @ 2025-06-20
+2025-06-21 01:20:35 INFO     UBER @ 2025-06-20
+2025-06-21 01:20:35 INFO     UDR @ 2025-06-20
+2025-06-21 01:20:35 INFO     ULTA @ 2025-06-20
+2025-06-21 01:20:35 INFO     UNP @ 2025-06-20
+2025-06-21 01:20:35 INFO     UAL @ 2025-06-20
+2025-06-21 01:20:35 INFO     UPS @ 2025-06-20
+2025-06-21 01:20:35 INFO     URI @ 2025-06-20
+2025-06-21 01:20:35 INFO     UNH @ 2025-06-20
+2025-06-21 01:20:35 INFO     UHS @ 2025-06-20
+2025-06-21 01:20:35 INFO     VLO @ 2025-06-20
+2025-06-21 01:20:35 INFO     VTR @ 2025-06-20
+2025-06-21 01:20:35 INFO     VLTO @ 2025-06-20
+2025-06-21 01:20:35 INFO     VRSN @ 2025-06-20
+2025-06-21 01:20:35 INFO     VRSK @ 2025-06-20
+2025-06-21 01:20:35 INFO     VZ @ 2025-06-20
+2025-06-21 01:20:36 INFO     VRTX @ 2025-06-20
+2025-06-21 01:20:36 INFO     VTRS @ 2025-06-20
+2025-06-21 01:20:36 INFO     VICI @ 2025-06-20
+2025-06-21 01:20:36 INFO     V @ 2025-06-20
+2025-06-21 01:20:36 INFO     VST @ 2025-06-20
+2025-06-21 01:20:36 INFO     VMC @ 2025-06-20
+2025-06-21 01:20:36 INFO     WRB @ 2025-06-20
+2025-06-21 01:20:36 INFO     GWW @ 2025-06-20
+2025-06-21 01:20:36 INFO     WAB @ 2025-06-20
+2025-06-21 01:20:36 INFO     WBA @ 2025-06-20
+2025-06-21 01:20:36 INFO     WMT @ 2025-06-20
+2025-06-21 01:20:36 INFO     DIS @ 2025-06-20
+2025-06-21 01:20:36 INFO     WBD @ 2025-06-20
+2025-06-21 01:20:36 INFO     WM @ 2025-06-20
+2025-06-21 01:20:36 INFO     WAT @ 2025-06-20
+2025-06-21 01:20:36 INFO     WEC @ 2025-06-20
+2025-06-21 01:20:36 INFO     WFC @ 2025-06-20
+2025-06-21 01:20:36 INFO     WELL @ 2025-06-20
+2025-06-21 01:20:36 INFO     WST @ 2025-06-20
+2025-06-21 01:20:36 INFO     WDC @ 2025-06-20
+2025-06-21 01:20:36 INFO     WY @ 2025-06-20
+2025-06-21 01:20:36 INFO     WSM @ 2025-06-20
+2025-06-21 01:20:36 INFO     WMB @ 2025-06-20
+2025-06-21 01:20:36 INFO     WTW @ 2025-06-20
+2025-06-21 01:20:36 INFO     WDAY @ 2025-06-20
+2025-06-21 01:20:36 INFO     WYNN @ 2025-06-20
+2025-06-21 01:20:36 INFO     XEL @ 2025-06-20
+2025-06-21 01:20:36 INFO     XYL @ 2025-06-20
+2025-06-21 01:20:36 INFO     YUM @ 2025-06-20
+2025-06-21 01:20:36 INFO     ZBRA @ 2025-06-20
+2025-06-21 01:20:36 INFO     ZBH @ 2025-06-20
+2025-06-21 01:20:36 INFO     ZTS @ 2025-06-20
+2025-06-21 01:20:36 INFO     Price update run complete
