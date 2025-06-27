@@ -64,7 +64,9 @@ def fetch_latest(symbols):
     try:
         raw = yf.download(
             tickers=symbols,
-            period="1d",           # fetch the last 2 days
+            #period="2d",           # fetch the last days
+            start = '2025-06-25',
+            end = '2025-06-26',
             progress=False,
             threads=True,
             group_by='ticker'

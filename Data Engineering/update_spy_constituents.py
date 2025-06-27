@@ -1,18 +1,8 @@
+#!/usr/bin/env python3
 import datetime
 import pandas as pd
 import MySQLdb as mdb
 
-
-db_host = 'localhost'
-db_user = 'sec_user'
-db_pass = 'Quantum1~~2004'
-db_name = 'securities_master'
-con = mdb.connect(
-    host=db_host,
-    user=db_user,
-    passwd=db_pass,
-    db=db_name,
-)
 
 DB = dict(host='localhost', user='sec_user', passwd='Quantum1~~2004', db='securities_master')
 
